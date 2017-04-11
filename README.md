@@ -7,6 +7,11 @@ OWNER, an API to ease Java property files usage.
 [![Coverage Status](https://coveralls.io/repos/lviggiano/owner/badge.png)](https://coveralls.io/r/lviggiano/owner)
 [![Built with Maven](http://maven.apache.org/images/logos/maven-feather.png)](http://owner.newinstance.it/maven-site/)
 
+[![Security Status](http://qa.meterian.com/badge/security.svg?uuid=fa3fbef4-256f-40fe-a955-fd3161243ec6)]
+[![Defect Status](http://qa.meterian.com/badge/defect.svg?uuid=fa3fbef4-256f-40fe-a955-fd3161243ec6)]
+
+Close
+
 Donate
 ------------------------------------------------------------------------
 
