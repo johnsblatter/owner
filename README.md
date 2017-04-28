@@ -8,7 +8,6 @@ OWNER, an API to ease Java property files usage.
 [![Built with Maven](http://maven.apache.org/images/logos/maven-feather.png)](http://owner.newinstance.it/maven-site/)
 [![Security Status](https://www.meterian.io/badge/gh/johnsblatter/owner/defect)](https://www.meterian.io)
 
-Close
 
 Donate
 ------------------------------------------------------------------------
