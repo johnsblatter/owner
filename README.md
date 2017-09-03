@@ -6,8 +6,9 @@ OWNER, an API to ease Java property files usage.
 [![Build Status](https://travis-ci.org/lviggiano/owner.png?branch=master)](https://travis-ci.org/lviggiano/owner)
 [![Coverage Status](https://coveralls.io/repos/lviggiano/owner/badge.png)](https://coveralls.io/r/lviggiano/owner)
 [![Built with Maven](http://maven.apache.org/images/logos/maven-feather.png)](http://owner.newinstance.it/maven-site/)
+
 [![security status](https://www.meterian.io/badge/gh/johnsblatter/owner/security)](https://www.meterian.io/report/gh/johnsblatter/owner)
-[![defect status](https://www.meterian.io/badge/gh/johnsblatter/owner/defect)](https://www.meterian.io/report/gh/johnsblatter/owner)
+[![stability status](https://www.meterian.io/badge/gh/johnsblatter/owner/stability)](https://www.meterian.io/report/gh/johnsblatter/owner)
 
 
 Donate
